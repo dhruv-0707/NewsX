@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsX</string>
+    <string name="title">Title</string>
+    <string name="content">content</string>
+    <string name="source">source</string>
+    <string name="date_and_time">date and time</string>
+    <string name="search">Search </string>
+</resources>
